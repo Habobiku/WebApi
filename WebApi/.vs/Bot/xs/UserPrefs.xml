@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{952A21C8-2B22-42E0-A5A9-1E7124FAB258}|test" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.Bot PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bot/Models/config.cs">
+    <Files>
+      <File FileName="Bot/Startup.cs" Line="35" Column="13" />
+      <File FileName="Bot/Models/config.cs" Line="8" Column="30" />
+      <File FileName="Bot/Clients/PandaClient.cs" />
+      <File FileName="Bot/Clients/IDynamoDBClient.cs" />
+      <File FileName="Bot/Controllers/PlayerController.cs" />
+      <File FileName="Bot/Response/PlayerResponce.cs" />
+      <File FileName="Bot/Response/TeamsResponce.cs" />
+      <File FileName="Bot/Response/PlayerResponceData.cs" />
+      <File FileName="Bot/Models/PlayerParemeters.cs" />
+      <File FileName="Bot/Models/TeamsParameters.cs" />
+      <File FileName="Bot/Controllers/TeamsController.cs" />
+      <File FileName="Bot/Controllers/DatabaseController.cs" Line="82" Column="1" />
+      <File FileName="Bot/Clients/DynamoClient.cs" />
+      <File FileName="Bot/Response/TeamsResponseData.cs" />
+      <File FileName="Bot/Dota2/player.cs" />
+      <File FileName="Bot/Dota2/heroes.cs" />
+      <File FileName="Bot/Dota2/teams.cs" />
+      <File FileName="Bot/Controllers/HomeController.cs" />
+      <File FileName="Bot/Program.cs" />
+      <File FileName="Bot/Controllers/HeroController.cs" />
+      <File FileName="Bot/Response/HeroResponce.cs" />
+      <File FileName="Bot/Response/HeroResponceData.cs" />
+      <File FileName="Bot/Database/FavoriteDB.cs" />
+      <File FileName="Bot/Response/MatchesResponce.cs" />
+      <File FileName="Bot/Dota2/matches.cs" />
+      <File FileName="Bot/Bot.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bot" expanded="True">
+            <Node name="Bot" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="config.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>TelegramBot/TelegramBot.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Habob/Projects/WebApi/Bot/Clients/DynamoClient.cs" relfile="Bot/Clients/DynamoClient.cs" line="203" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
